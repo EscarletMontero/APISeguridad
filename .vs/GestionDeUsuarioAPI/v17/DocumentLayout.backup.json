@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\escar\\Downloads\\APIUsuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\modelos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:modelos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\services\\usuariosservices\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:services\\usuariosservices\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\services\\usuariosservices\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:services\\usuariosservices\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\services\\autentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:services\\autentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\services\\encriptar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:services\\encriptar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|c:\\users\\escar\\downloads\\apiusuario\\db\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32548FA8-C294-4B18-ADFD-26118C4DBD9B}|GestionDeUsuarioAPI.csproj|solutionrelative:db\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\escar\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217174639_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\escar\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\ContextDBModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\escar\\Downloads\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172938_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\escar\\Downloads\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172646_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:36:58.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:53:50.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:23:00.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T20:06:37.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:07:20.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Modelos\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Modelos\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Modelos\\LoginModel.cs",
+              "RelativeToolTip": "Modelos\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:34:08.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:24:22.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\UsuariosServices\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuariosServices\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\UsuariosServices\\IUsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuariosServices\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:51:01.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\UsuariosServices\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuariosServices\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\UsuariosServices\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuariosServices\\UsuarioService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:50:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Encriptar.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\Encriptar.cs",
+              "RelativeDocumentMoniker": "Services\\Encriptar.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\Encriptar.cs",
+              "RelativeToolTip": "Services\\Encriptar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:27:28.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:58:25.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Autentication.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\Autentication.cs",
+              "RelativeDocumentMoniker": "Services\\Autentication.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\Services\\Autentication.cs",
+              "RelativeToolTip": "Services\\Autentication.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T19:19:09.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\APIUsuario\\DB\\ContextDB.cs",
+              "RelativeDocumentMoniker": "DB\\ContextDB.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\APIUsuario\\DB\\ContextDB.cs",
+              "RelativeToolTip": "DB\\ContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:45:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContextDBModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\ContextDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\..\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\ContextDBModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\escar\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\ContextDBModelSnapshot.cs",
+              "RelativeToolTip": "..\\..\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\ContextDBModelSnapshot.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:56:07.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250217174639_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217174639_FirstMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217174639_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\escar\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217174639_FirstMigration.cs",
+              "RelativeToolTip": "..\\..\\OneDrive\\Documents\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217174639_FirstMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:46:39.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250217172938_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172938_FirstMigration.cs",
+              "RelativeDocumentMoniker": "..\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172938_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172938_FirstMigration.cs",
+              "RelativeToolTip": "..\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172938_FirstMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:29:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250217172646_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\escar\\Downloads\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172646_Inicial.cs",
+              "RelativeDocumentMoniker": "..\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172646_Inicial.cs",
+              "ToolTip": "C:\\Users\\escar\\Downloads\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172646_Inicial.cs",
+              "RelativeToolTip": "..\\ITLA\\Practica 5\\GestionDeUsuarioAPI\\Migrations\\20250217172646_Inicial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:26:47.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
