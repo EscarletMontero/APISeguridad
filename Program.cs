@@ -9,7 +9,7 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// para la configuracion JWT
+// Aqui configuro JWT
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 
 builder.Services.AddDbContext<ContextDB>(op =>
